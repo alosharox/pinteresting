@@ -14,7 +14,7 @@ end
 
 group :production do
 	gem 'pg'
-	gem 'rail_12factor'
+	gem 'rails_12factor'
 end
 
 gem 'sdoc', '~> 0.4.0',          group: :doc
